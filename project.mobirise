@@ -2376,7 +2376,7 @@
                 "title": "Scenic Art Work",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "- Alice in Wonderland inspired Floor Cloth&nbsp;<br><br>- Scaling-up Project; Dorain Spencer Davies &nbsp;",
+                "text": "- Alice in Wonderland inspired Floorcloth&nbsp;<br><br>- Scaling-up Project; Dorain Spencer Davies &nbsp;<br><br>- 'Cracked' Floorcloth; Designed by Becky Davies for Pontardawe Arts Centre&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.8"
               },
@@ -2433,6 +2433,23 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/scaling-up-793x782.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-2",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/51156333-616386078799233-7932757119143510016-n-640x480.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
