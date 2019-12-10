@@ -36,7 +36,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 37,
+    "uniqCompNum": 33,
     "versionPublish": "4.8.8",
     "favicon": "@PROJECT_PATH@/assets/images/transparent-logo-cropped-128x128.png",
     "noImageResize": "",
